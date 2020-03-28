@@ -1,5 +1,4 @@
 from lib.shrink import generate
-import string
 import pymongo
 import time
 
